@@ -1,7 +1,7 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-    pc: `Acá voy a hablar de mis experiencias <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
+    pc: `Si queres cerrar esta ventana, apretá CLOSE <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
     "cs-degree": `Hablar de mi título de sociología`,
     "sofa-table": `hablar del relax? 
     <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the!`,
